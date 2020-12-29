@@ -5,7 +5,7 @@ def find_element_index(scale,2)
   while count < scale.length do
     if array[count] ==  value_to_find
       found_value_index = count
-   count +=1  
     end
+    count +=1
   end 
 end   
