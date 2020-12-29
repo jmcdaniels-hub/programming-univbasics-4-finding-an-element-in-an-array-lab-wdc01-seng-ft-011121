@@ -8,4 +8,5 @@ def find_element_index(scale,value_to_find = 2)
     end
     count +=1
   end 
+  found_value_index
 end   
